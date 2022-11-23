@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="Lab6.css" />
+    <meta charset="utf-8">
+    <title> Frontend Task №6 </title>
+
+    <script src="Lab6.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="button-container">
+            <button onclick="changeGrid(1)"> Левая колонка </button>
+            <button onclick="changeGrid(2)"> Обе две </button>
+            <button onclick="changeGrid(3)"> Правая колонка </button>
+        </div>
+        <div id="pic-container">
+            <div class="pic1">
+                <img src="IMG/cat.jpg" id="cat">
+            </div>
+            <div class="pic2">
+                <img src="IMG/dog.jpg" id="dog">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        changeGrid(1);
+    </script>
+
+</body>
