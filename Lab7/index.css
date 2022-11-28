@@ -1,0 +1,26 @@
+.treug{
+    position: absolute;
+    opacity: .8;
+    border-left: 0 solid transparent;
+    border-right: 0 solid transparent;
+    border-bottom: 0 solid blue;
+}
+
+.krug{
+    position: absolute;
+	background: green;
+    border-radius: 50px;
+    border: 1px solid black;
+    opacity: .8;
+}
+
+.kvadr{
+    position: absolute;
+    background:red;
+    border: 1px solid black;
+    opacity: .8;
+}
+
+#out{
+    position: absolute;
+}
