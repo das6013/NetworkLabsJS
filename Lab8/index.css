@@ -1,0 +1,25 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+	border: 1px solid grey;
+    border-radius: 2px;
+    background: rgb(245,245,245,245) linear-gradient(#f4f4f4,#f1f1f1);
+    color:black;
+}
+
+input{
+	border: 1px solid gray;
+}
+
+#Save:hover{
+    border: #487bda 1px solid;
+}
+
+#Out{
+    font-size: 13px;
+ 
+}

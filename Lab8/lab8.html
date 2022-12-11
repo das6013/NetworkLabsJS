@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang= "zxx">
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+	<title>Task 8</title>
+</head>
+<body>
+    <div id="main">
+        <div id="hide" style="display: none;">
+            <div class="Inp">
+                <input class="input" type="text"><input class="input1" type="text"><button class="Up" onclick="Up1(this)">↑</button><button class="Down" onclick="Down1(this)">↓</button><button
+                    class="Del" onclick="Del(this)">x</button>
+            </div>
+        </div>
+        <div id="Store">
+        </div>
+        <div>
+            <button id="Add" onclick="Add()">Добавить элемент</button>
+            <br>
+            <button id="Save" onclick="Save('Out')">Сохранить</button>
+        </div>
+    </div>
+    <div id="Out"></div>
+    <script src="index.js"></script>
+</body>
+
+</html>
