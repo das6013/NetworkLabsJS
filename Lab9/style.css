@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  border: 3.5px solid #74accc;
+  padding: 10px;
+  display: inline-block;
+}
+
+input {
+  text-align: right;
+  font-size: 20px;
+  width: 273px;
+  height: 40px;
+}
+
+[value]:last-letter {
+  color: blue;
+}
+
+.btn {
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#c4c1c0));
+  min-width: 50px;
+  min-height: 50px;
+  padding: 0;
+  margin: 1px;
+  font-weight: 100;
+  font-size: 20px;
+  border-radius: 2px;
+  border: 1.8px solid rgb(194, 190, 190);
+}
+
+.btn:hover {
+  border: 1.8px solid #74accc;
+}
+
+.btn__equals {
+  min-width: 50px;
+  min-height: 105px;
+}
+
+.btn__zero {
+  min-width: 105px;
+  min-height: 50px;
+}/*# sourceMappingURL=style.css.map */
