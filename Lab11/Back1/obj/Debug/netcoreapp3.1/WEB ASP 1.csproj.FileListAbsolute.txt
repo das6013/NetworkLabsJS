@@ -1,0 +1,39 @@
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\WEB ASP 1.exe
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\WEB ASP 1.deps.json
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\WEB ASP 1.runtimeconfig.json
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\WEB ASP 1.runtimeconfig.dev.json
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\WEB ASP 1.dll
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\WEB ASP 1.pdb
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\WEB ASP 1.Views.dll
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\bin\Debug\netcoreapp3.1\WEB ASP 1.Views.pdb
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.csproj.AssemblyReference.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.AssemblyInfoInputs.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.AssemblyInfo.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.csproj.CoreCompileInputs.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorAssemblyInfo.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorAssemblyInfo.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\staticwebassets\WEB ASP 1.StaticWebAssets.Manifest.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\staticwebassets\WEB ASP 1.StaticWebAssets.xml
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEB ASP 1.styles.css
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.TagHelpers.input.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.TagHelpers.output.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorCoreGenerate.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorTargetAssemblyInfo.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.RazorTargetAssemblyInfo.cs
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.Views.pdb
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.dll
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.pdb
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.genruntimeconfig.cache
+C:\Users\danab\Desktop\931920.Chikalova.Svetlana.lab11-master\931920.Chikalova.Svetlana.lab11-master\obj\Debug\netcoreapp3.1\WEB ASP 1.csproj.CopyComplete

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\danab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\danab\\.nuget\\packages"
+    ]
+  }
+}
