@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "ModelBindingInParameters";
+}
+<h1>@ViewData["Title"]</h1>
+<form method="post">
+    <input type="number" name="val1" /><br />
+    <select name="oper">
+        <option value="+">+</option>
+        <option value="-">-</option>
+        <option value="/">/</option>
+        <option value="*">*</option>
+    </select> <br />
+    <input type="number" name="val2" /><br />
+    <input type="submit" value="Submit" />
+</form>

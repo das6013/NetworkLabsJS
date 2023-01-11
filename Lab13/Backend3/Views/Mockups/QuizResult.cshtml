@@ -1,0 +1,13 @@
+﻿@using Backend3.Models
+@model IEnumerable<Questions>
+@{ int i = 0;
+    ViewData["Title"] = "Quiz Result";
+}
+<h1>@ViewData["Title"]</h1>
+<h2>Right Answers @IdentityMap.rights out @IdentityMap.alls</h2>
+@foreach (Questions a in Model)
+{
+    i++;
+    <div>@i. @a.Problem   @a.yanswer</div>
+}    
+@{IdentityMap.Up();}
