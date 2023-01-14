@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danab\\Desktop\\931920.Chikalova.Svetlana.lab13-master\\931920.Chikalova.Svetlana.lab13-master\\Backend3\\Backend3.csproj",
-      "projectName": "Backend3",
-      "projectPath": "C:\\Users\\danab\\Desktop\\931920.Chikalova.Svetlana.lab13-master\\931920.Chikalova.Svetlana.lab13-master\\Backend3\\Backend3.csproj",
+      "projectUniqueName": "C:\\Users\\danab\\Desktop\\NetworkLabsJS-main\\NetworkLabsJS-main\\Lab13\\Backend3\\Back3.csproj",
+      "projectName": "Back3",
+      "projectPath": "C:\\Users\\danab\\Desktop\\NetworkLabsJS-main\\NetworkLabsJS-main\\Lab13\\Backend3\\Back3.csproj",
       "packagesPath": "C:\\Users\\danab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danab\\Desktop\\931920.Chikalova.Svetlana.lab13-master\\931920.Chikalova.Svetlana.lab13-master\\Backend3\\obj\\",
+      "outputPath": "C:\\Users\\danab\\Desktop\\NetworkLabsJS-main\\NetworkLabsJS-main\\Lab13\\Backend3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danab\\AppData\\Roaming\\NuGet\\NuGet.Config",
